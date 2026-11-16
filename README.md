@@ -1,0 +1,2 @@
+# FindIt
+FindIt is developed as an Android-based lost-and-found application designed to help the Batangas State University–Alangilan Campus community recover belongings. It lets users post lost and found reports on an interactive campus map, get alerts about reports within about 100 meters, and message each other in-app to arrange safe returns.
