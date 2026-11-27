@@ -1,0 +1,22 @@
+* text=auto
+
+*.java text eol=lf diff=java
+*.html text eol=lf diff=html
+*.css  text eol=lf diff=css
+*.js   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.gif  binary
+*.ico  binary
+*.webp binary
+*.class binary
+*.jar  binary
+*.zip  binary
